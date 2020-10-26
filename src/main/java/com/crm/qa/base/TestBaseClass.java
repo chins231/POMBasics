@@ -29,7 +29,7 @@ public class TestBaseClass {
 		}
 
 	}
-
+//sample git push test
 	public static void initialization() {
 		String browserName = prop.getProperty("browser");
 		if (browserName.equals("Chrome")) {
